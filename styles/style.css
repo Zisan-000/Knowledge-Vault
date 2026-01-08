@@ -28,6 +28,9 @@
   font-size: 16px;
   font-weight: 500;
 }
+.middle-nav li a:hover {
+  color: #30b868;
+}
 .btn {
   padding: 12px 16px;
   color: white;
@@ -102,6 +105,9 @@
   font-size: 16px;
   border-radius: 4px;
   border-color: white;
+}
+.second-btn:hover {
+  background-color: #ffffff1f;
 }
 .header-btn {
   max-width: 465px;
