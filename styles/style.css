@@ -49,7 +49,6 @@
   background-size: cover;
 }
 .header-content {
-  padding: 70px 120px 134px 120px;
   margin: 0;
   height: 674px;
   text-align: center;
@@ -57,8 +56,13 @@
 .inside-header {
   max-width: 1360px;
   margin: 0 auto;
+  height: 380px;
   padding: 116px 120px 180px 120px;
   align-items: center;
+}
+.round {
+  background-color: #30b8697c;
+  border-radius: 50%;
 }
 .early {
   max-width: 229px;
