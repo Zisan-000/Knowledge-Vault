@@ -153,6 +153,7 @@
   height: 300px;
   margin: 0 auto;
   align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 25, 49, 0.06);
 }
 .box-content .box img {
   background-color: #f95555;
